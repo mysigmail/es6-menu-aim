@@ -1,7 +1,7 @@
 {
   "name": "@mysigmail/menu-aim",
   "type": "module",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "ES6 re-implementation of jQuery-menu-aim",
   "license": "MIT",
   "repository": {
